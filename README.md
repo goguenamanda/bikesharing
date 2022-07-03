@@ -40,3 +40,6 @@ This bar chart compares the number of rides in August to the time of day. As we 
 These visualizations helped transform data into meaningful information that can give us insight into the bikesharing business model. The data showed that men were most likely to use the bikes. Subscribers were more likely to use bikes than customers. The most popular riding times were 8 am, 5 pm, and 6 pm, which likely correlates to the times that people are travelling to and from work. 
 
 For further analyses, I'd suggest making more visualizations. One of my recommended visualizations would be comparing the birth year by gender to the number of bike rides. Another visualization could be comparing the usertype to the distance on average that is travelled per trip.
+
+
+[link to dashboard](https://public.tableau.com/app/profile/amanda.goguen/viz/Bikesharing_Challenge1/BikesharingData?publish=yes)
